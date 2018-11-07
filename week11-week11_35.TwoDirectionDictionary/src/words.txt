@@ -1,0 +1,7 @@
+cc:dd
+ee:ff
+gg:hh
+aa:bb
+apina:monkey
+banaani:banana
+ohjelmointi:programming
